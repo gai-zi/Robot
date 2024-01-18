@@ -1,0 +1,3 @@
+<launch>
+  <node name="attendance" pkg="rchomeedu_vision" type="Attendance.py" output="screen"/>
+</launch>
